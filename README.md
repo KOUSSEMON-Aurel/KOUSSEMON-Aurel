@@ -37,6 +37,7 @@ Browser extension to detect AI-generated code
 
 <b> ChessGame</b><br/>
 Logic, algorithms, and object-oriented programming — a strong academic project
+
 ---
 
 ###  Contact
