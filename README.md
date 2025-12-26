@@ -35,6 +35,8 @@ Systems project in Rust (memory safety)
 <b> IA_DETECTOR_REPO</b><br/>
 Browser extension to detect AI-generated code
 
+<b> ChessGame</b><br/>
+Logic, algorithms, and object-oriented programming — a strong academic project
 ---
 
 ###  Contact
