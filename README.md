@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi 👋, I'm Aurel KOUSSEMON
+# Hi , I'm Aurel KOUSSEMON
 
-### 🎓 Computer Science Student (Bachelor’s – Year 2) | 🔒 Cybersecurity
-**💻 Linux • Automation • Backend • Open-source**
+###  Computer Science Student (Bachelor’s – Year 2) |  Cybersecurity
+** Linux • Automation • Backend • Open-source**
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,23 +21,23 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-<b>🧱 minecraft-ollama-bot</b><br/>
+<b> minecraft-ollama-bot</b><br/>
 Minecraft bot powered by a local LLM (Ollama)
 
-<b>🐧 libfprint-elan-0c8e-fix</b><br/>
+<b> libfprint-elan-0c8e-fix</b><br/>
 Linux fingerprint driver patch (C)
 
-<b>🦀 EmuForge</b><br/>
+<b> EmuForge</b><br/>
 Systems project in Rust (memory safety)
 
-<b>🕵️ IA_DETECTOR_REPO</b><br/>
+<b> IA_DETECTOR_REPO</b><br/>
 Browser extension to detect AI-generated code
 
 ---
 
-### 📫 Contact
+###  Contact
 
 <a href="mailto:koussemonaurel@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
