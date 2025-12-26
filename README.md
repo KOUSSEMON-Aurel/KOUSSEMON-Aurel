@@ -3,7 +3,7 @@
 # Hi , I'm Aurel KOUSSEMON
 
 ###  Computer Science Student (Bachelor’s – Year 2) |  Cybersecurity
-** Linux • Automation • Backend • Open-source**
+**Linux • Automation • Backend • Open-source**
 
 ---
 
